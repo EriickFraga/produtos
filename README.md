@@ -1,3 +1,10 @@
+## Bibliotecas Utilizadas
+- react-router-dom
+- bootswatch
+
+----------
+</br>
+
 ![1](https://user-images.githubusercontent.com/70297966/177053341-b8d6c09e-17e8-435f-ab58-efd87a1ba9db.png)
 
 
